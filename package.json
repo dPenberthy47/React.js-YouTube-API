@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
+    "dotenv": "^6.0.0",
     "lodash": "^3.10.1",
     "npm": "^6.3.0",
     "react": "16.3.2",
